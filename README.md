@@ -2,7 +2,7 @@ AI & Machine Learning Projects
 
 This repository contains a collection of projects that demonstrate core concepts in Artificial Intelligence (AI) and Machine Learning (ML), with a particular focus on Natural Language Processing (NLP). The projects cover end-to-end workflows, from text preprocessing to statistical analysis and feature engineering, and showcase the ability to apply algorithms to practical problems.
 
-📂 Projects Overview
+ Projects Overview
 1. Text Preprocessing
 
 Implemented tokenization, stopword removal, punctuation handling, stemming, lemmatization, and n-gram generation.
@@ -67,7 +67,7 @@ Bag of Words & TF–IDF feature engineering
 
 Data visualization and interpretation
 
-🚀 Future Work
+Future Work
 
 Extend feature extraction to Word Embeddings (Word2Vec, GloVe).
 
@@ -75,7 +75,7 @@ Implement classification models (Naive Bayes, SVM) using BoW and TF–IDF featur
 
 Explore deep learning approaches (RNNs, Transformers) for sequence modeling.
 
-📌 Summary
+Summary
 
 These projects collectively demonstrate my ability to:
 
@@ -87,4 +87,4 @@ Translate theoretical concepts into practical, working code.
 
 Prepare datasets and features for machine learning workflows.
 
-✨ This repository is designed to reflect both academic foundations and industry-relevant applications of AI/ML techniques.
+ This repository is designed to reflect both academic foundations and industry-relevant applications of AI/ML techniques.
